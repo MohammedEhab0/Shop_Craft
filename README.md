@@ -46,16 +46,16 @@ What you need:
 
 Steps to get it working:
 
-    Get the code:
-    Open your terminal or command prompt and type:
-    Bash
+Get the code:
+Open your terminal or command prompt and type:
+Bash
 
-git clone https://github.com/your-username/your-repository-name.git
+    git clone https://github.com/your-username/your-repository-name.git
 
 Go inside the project folder:
 Bash
 
-cd your-repository-name
+    cd your-repository-name
 
 Get the necessary files:
 This command downloads everything the project needs to run.
