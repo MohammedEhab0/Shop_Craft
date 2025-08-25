@@ -72,11 +72,10 @@ flutter run
 Your app should now open!
 ### 📸 App Screenshots
 
-**Welcome Screen**
-![Welcome Screen](screenshots/welcome_screen.png)
+| Welcome Screen | Shopping Page |
+| :---: | :---: |
+| <img src="screenshots/welcome_screen.png" width="200"> | <img src="screenshots/shopping_page_a.png" width="200"> |
 
-**Shopping Page**
-![Shopping Page](screenshots/shopping_page.png)
-
-**Sign-In Form**
-![Sign-In Form](screenshots/sign_in_form.png)
+| Sign-In Form | Dialog Screen |
+| :---: | :---: |
+| <img src="screenshots/sign_in_form.png" width="200"> | <img src="screenshots/dialog_screen.png" width="200"> |
