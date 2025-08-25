@@ -72,9 +72,9 @@ flutter run
 Your app should now open!
 ### 📸 App Screenshots
 
-| Welcome Screen |                     Shopping Page                     |
-| :---: |:-----------------------------------------------------:|
-| <img src="screenshots/welcome_screen.png" width="200"> | <img src="screenshots/shopping_page.png" width="200"> |
+| Welcome Screen |                     Shopping Page                     |                   Arabic Shopping Page                     |
+| :---: |:-----------------------------------------------------:|:-----------------------------------------------------:|
+| <img src="screenshots/welcome_screen.png" width="200"> | <img src="screenshots/shopping_page.png" width="200"> | <img src="screenshots/shopping_page_ar.png" width="200"> |
 
 | Sign-In Form |                     Dialog Screen                     |
 | :---: |:-----------------------------------------------------:|
