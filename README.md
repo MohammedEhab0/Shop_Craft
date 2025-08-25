@@ -4,35 +4,28 @@ This is a simple shopping app built with Flutter. It has a nice design and lets 
 
 ✨ What My App Does (Features)
 
-    Welcome Screen:
+Welcome Screen:
 
-        Shows a welcome page with a title and two images (one from the internet, one from my computer).
+ Shows a welcome page with a title and two images (one from the internet, one from my computer).
 
-        Uses a special font and has buttons to sign up or sign in.
+ Uses a special font and has buttons to sign up or sign in.
 
-    Sign Up & Sign In:
+ Sign Up & Sign In:
 
-        Sign Up: You can create a new account by entering your name, email, and a password. It checks if everything is correct.
+   Sign Up: You can create a new account by entering your name, email, and a password. It checks if everything is correct.
 
-        Sign In: You can log in with an existing account.
+   Sign In: You can log in with an existing account.
 
-        After you successfully log in or sign up, a small message pops up to say "success!"
+  After you successfully log in or sign up, a small message pops up to say "success!"
 
-    Smooth Transitions:
-
-        When you log in, the screen changes with a nice fade-in effect instead of just jumping to the next page.
-
+  Smooth Transitions:
+    When you log in, the screen changes with a nice fade-in effect instead of just jumping to the next page.
     Shopping Home Page:
-
-        App Bar: At the top, it says "Our Products."
-
-        Featured Products: You can swipe left and right to see special products.
-
-        Product Grid: Below that, you can see all the products in a grid (two items per row).
-
-        Product Cards: Each product has its own picture, title, and an "Add to Cart" button. When you click the button, a small message appears at the bottom of the screen.
-
-        Hot Offers: There's a section with a list of special offers that you can scroll up and down.
+      App Bar: At the top, it says "Our Products."
+      Featured Products: You can swipe left and right to see special products.
+      Product Grid: Below that, you can see all the products in a grid (two items per row).
+      Product Cards: Each product has its own picture, title, and an "Add to Cart" button. When you click the button, a small message appears at the bottom of the screen.
+      Hot Offers: There's a section with a list of special offers that you can scroll up and down.
 
 🚀 How to Run the App
 
