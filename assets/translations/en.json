@@ -1,0 +1,15 @@
+{"sign_in": "Sign In",
+  "email": "Email",
+  "password": "Password",
+  "name": "Full Name",
+  "re_password": "Confirm Password",
+  "confirm_password": "Confirm your Password",
+  "enter_email": "Enter your Email",
+  "enter_name": "Enter your Full Name",
+  "enter-password": "Enter your password",
+  "sign_up": "Sign Up",
+  "hot_offers":  "Hot Offers",
+  "our_products":  "Our Products",
+  "create_account": "Create Account",
+  "OFF": "OFF"
+}
